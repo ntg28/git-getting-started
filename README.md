@@ -15,7 +15,7 @@
 - [x] You need to fix a conflict.
 - [x] Before to send the soluction we need to update the local project.
 
-- [] You need to back for a file in a determinate time
+- [x] You need to back for a file in a determinate time
 
 # COMMANDS
 
