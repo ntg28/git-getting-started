@@ -13,7 +13,9 @@
 
 - [x] You will get a started project, for work with a team.
 - [x] You need to fix a conflict.
-- [] Before to send the soluction we need to update the local project.
+- [x] Before to send the soluction we need to update the local project.
+
+- [] You need to back for a file in a determinate time
 
 # COMMANDS
 
