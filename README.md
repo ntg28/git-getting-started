@@ -13,8 +13,7 @@
 
 # COMMANDS
 
-- init the project
-	`git init`
+- `git init` // init the project
 - `git add <file>` // save a file in the project
 - `git log` // see the commits
 - `git commit` -m <message> // save a point in the timeline
