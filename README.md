@@ -11,17 +11,29 @@
 
 - [x] You want to add your project in the cloud.
 
+- [x] You will get a started project, for work with a team.
+- [x] You need to fix a conflict.
+- [] Before to send the soluction we need to update the local project.
+
 # COMMANDS
 
-- `git init` // init the project
-- `git add <file>` // save a file in the project
-- `git log` // see the commits
-- `git commit` -m <message> // save a point in the timeline
-- `git branch <branch-name>` // create a new timeline
-- `git branch -D <branch-name>` // delete a branch
-- `git checkout <branch-name>` // change to another branch
-- `git merge <branch-name>` // join a branch in another
-- `git remote add origin <repository-url>` // link the local repository with the github
-- `git remote -v` // see the remote repository
-- `git push -u origin master` // push the master for the origin repository
+* `git init` // init the project.
+* `git add <file>` // save a file in the project.
+* `git log` // see the commits.
+* `git status` // see the status of the project.
+* `git show` // show a point on timeline.
+* `git commit -m <message>` // save a point in the timeline.
+* `git commit -am <message>` // git add + git commit
 
+* `git branch <branch-name>` // create a new timeline.
+* `git branch -D <branch-name>` // delete a branch.
+* `git checkout <branch-name>` // change to another branch.
+* `git checkout -b <branch-name>` // git branch + git checkout
+
+* `git merge <branch-name>` // join a branch in another.
+
+* `git remote add origin <repository-url>` // link the local repository with the github.
+* `git remote -v` // see the remote repository.
+* `git push -u origin master` // push the master for the origin repository (just in the first time).
+* `git clone <repository-url>` // get a project
+* `git pull` // get updates from the cloud repository
