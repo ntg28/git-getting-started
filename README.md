@@ -39,3 +39,5 @@
 * `git push -u origin master` // push the master for the origin repository (just in the first time).
 * `git clone <repository-url>` // get a project
 * `git pull` // get updates from the cloud repository
+
+* `git config credential.helper store` // save the user and password
